@@ -7,3 +7,6 @@
 [submodule "recastnavigation"]
 	path = recastnavigation
 	url = https://github.com/recastnavigation/recastnavigation
+[submodule "NavMesh-Tutorial"]
+	path = NavMesh-Tutorial
+	url = https://github.com/Brackeys/NavMesh-Tutorial.git
