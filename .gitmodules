@@ -4,3 +4,6 @@
 [submodule "NavMeshComponents"]
 	path = NavMeshComponents
 	url = https://github.com/Unity-Technologies/NavMeshComponents.git
+[submodule "recastnavigation"]
+	path = recastnavigation
+	url = https://github.com/recastnavigation/recastnavigation
